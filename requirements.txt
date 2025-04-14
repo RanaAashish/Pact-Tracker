@@ -1,0 +1,6 @@
+slack-bolt
+pandas
+matplotlib
+openpyxl
+python-dotenv
+schedule
